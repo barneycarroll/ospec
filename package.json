@@ -1,0 +1,13 @@
+{
+  "name": "ospec",
+  "version": "1.2.3",
+  "description": "Fork of https://github.com/lhorie/mithril.js/tree/rewrite/ospec for debugging purposes",
+  "main": "ospec.js",
+  "keywords": [ "testing" ],
+  "author": "Leo Horie <lhorie@hotmail.com>",
+  "license": "MIT",
+  "bin": {
+    "ospec": "./bin/ospec.js"
+  },
+  "repository": "barneycarroll/ospec"
+}
